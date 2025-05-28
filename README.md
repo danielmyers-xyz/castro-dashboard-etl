@@ -45,6 +45,7 @@ Check out the dashboard built using this ETL pipeline:
 ## Notes
 
 - Data comes from: https://data.sfgov.org/resource/vw6y-z8j6.json
+- This ETL pipeline runs automatically once per day on my personal Jupyter Lab server.
 
 ---
 
